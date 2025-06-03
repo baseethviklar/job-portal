@@ -1,0 +1,3497 @@
+[
+  {
+    "name": "Tata Consultancy Services (TCS)",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.tcs.com/careers",
+    "careers_page": "https://www.tcs.com/careers"
+  },
+  {
+    "name": "Infosys",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.infosys.com",
+    "careers_page": "https://www.infosys.com/careers/apply.html"
+  },
+  {
+    "name": "Wipro",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.wipro.com",
+    "careers_page": "https://careers.wipro.com/careers-home/"
+  },
+  {
+    "name": "HCL Technologies",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.hcltech.com",
+    "careers_page": "https://www.hcltech.com/careers"
+  },
+  {
+    "name": "Tech Mahindra",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.techmahindra.com",
+    "careers_page": "https://careers.techmahindra.com/"
+  },
+  {
+    "name": "Cognizant",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.cognizant.com",
+    "careers_page": "https://careers.cognizant.com/global/en"
+  },
+  {
+    "name": "Accenture",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.accenture.com",
+    "careers_page": "https://www.accenture.com/in-en/careers/jobsearch"
+  },
+  {
+    "name": "HDFC Bank",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.hdfcbank.com",
+    "careers_page": "https://www.hdfcbank.com/personal/about-us/careers"
+  },
+  {
+    "name": "ICICI Bank",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.icicibank.com",
+    "careers_page": "https://www.icicicareers.com/"
+  },
+  {
+    "name": "Hitachi Systems India",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Gurugram",
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://hitachi-systems.co.in",
+    "careers_page": "https://hitachi-systems.co.in/careers.php"
+  },
+  {
+    "name": "Larsen & Toubro (L&T)",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.larsentoubro.com",
+    "careers_page": "https://www.larsentoubro.com/corporate/careers/"
+  },
+  {
+    "name": "LTIMindtree",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.ltimindtree.com",
+    "careers_page": "https://www.ltimindtree.com/india-careers/"
+  },
+  {
+    "name": "Hexaware Technologies",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://hexaware.com",
+    "careers_page": "https://hexaware.com/careers/"
+  },
+  {
+    "name": "Persistent Systems",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.persistent.com",
+    "careers_page": "https://www.persistent.com/careers/"
+  },
+  {
+    "name": "Mphasis",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.mphasis.com",
+    "careers_page": "https://careers.mphasis.com/home.html"
+  },
+  {
+    "name": "Microsoft",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.microsoft.com",
+    "careers_page": "https://careers.microsoft.com/"
+  },
+  {
+    "name": "Google",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.google.com",
+    "careers_page": "https://careers.google.com/"
+  },
+  {
+    "name": "Amazon",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.amazon.in",
+    "careers_page": "https://www.amazon.jobs/en/"
+  },
+  {
+    "name": "State Bank of India",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.sbi.co.in",
+    "careers_page": "https://www.sbi.co.in/web/careers"
+  },
+  {
+    "name": "Axis Bank",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.axisbank.com",
+    "careers_page": "https://www.axisbank.com/careers"
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.kotak.com",
+    "careers_page": "https://www.kotak.com/en/careers.html"
+  },
+  {
+    "name": "Airtel",
+    "category": "Telecommunications",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.airtel.in",
+    "careers_page": "https://careers.airtel.com/"
+  },
+  {
+    "name": "Reliance Jio",
+    "category": "Telecommunications",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.jio.com",
+    "careers_page": "https://careers.jio.com/"
+  },
+  {
+    "name": "Zoho Corporation",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai",
+      "Bangalore"
+    ],
+    "website": "https://www.zoho.com",
+    "careers_page": "https://careers.zohocorp.com/"
+  },
+  {
+    "name": "Freshworks",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Pune",
+      "Mumbai"
+    ],
+    "website": "https://www.freshworks.com",
+    "careers_page": "https://www.freshworks.com/company/careers/"
+  },
+  {
+    "name": "Akamai Technologies",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Chennai",
+      "Mumbai"
+    ],
+    "website": "https://www.akamai.com",
+    "careers_page": "https://www.akamai.com/careers"
+  },
+  {
+    "name": "Atlassian",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore"
+    ],
+    "website": "https://www.atlassian.com",
+    "careers_page": "https://www.atlassian.com/company/careers"
+  },
+  {
+    "name": "VMware",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.vmware.com",
+    "careers_page": "https://careers.vmware.com/"
+  },
+  {
+    "name": "ServiceNow",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Hyderabad",
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://www.servicenow.com",
+    "careers_page": "https://www.servicenow.com/careers.html"
+  },
+  {
+    "name": "HP Inc.",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Chennai",
+      "Mumbai"
+    ],
+    "website": "https://www.hp.com",
+    "careers_page": "https://jobs.hp.com/"
+  },
+  {
+    "name": "Dell Technologies",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.dell.com",
+    "careers_page": "https://jobs.dell.com/"
+  },
+  {
+    "name": "Adobe Systems",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Noida",
+      "Bangalore"
+    ],
+    "website": "https://www.adobe.com",
+    "careers_page": "https://www.adobe.com/careers.html"
+  },
+  {
+    "name": "Cisco Systems",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Pune",
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.cisco.com",
+    "careers_page": "https://jobs.cisco.com/"
+  },
+  {
+    "name": "SAP",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.sap.com",
+    "careers_page": "https://jobs.sap.com/"
+  },
+  {
+    "name": "Oracle",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Pune",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "website": "https://www.oracle.com",
+    "careers_page": "https://www.oracle.com/careers/"
+  },
+  {
+    "name": "Siemens",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.siemens.com",
+    "careers_page": "https://new.siemens.com/global/en/company/jobs.html"
+  },
+  {
+    "name": "PayPal",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.paypal.com",
+    "careers_page": "https://www.paypal.com/us/webapps/mpp/jobs"
+  },
+  {
+    "name": "Yes Bank",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.yesbank.in",
+    "careers_page": "https://www.yesbank.in/careers"
+  },
+  {
+    "name": "IndusInd Bank",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.indusind.com",
+    "careers_page": "https://www.indusind.com/in/en/careers.html"
+  },
+  {
+    "name": "IDFC FIRST Bank",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.idfcfirstbank.com",
+    "careers_page": "https://www.idfcfirstbank.com/careers"
+  },
+  {
+    "name": "Federal Bank",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.federalbank.co.in",
+    "careers_page": "https://www.federalbank.co.in/careers"
+  },
+  {
+    "name": "RBL Bank",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.rblbank.com",
+    "careers_page": "https://www.rblbank.com/careers/overview"
+  },
+  {
+    "name": "Paytm",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Noida",
+      "Bangalore",
+      "Mumbai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://paytm.com",
+    "careers_page": "https://paytm.com/careers/"
+  },
+  {
+    "name": "PhonePe",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.phonepe.com",
+    "careers_page": "https://www.phonepe.com/careers/"
+  },
+  {
+    "name": "Razorpay",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Pune"
+    ],
+    "website": "https://razorpay.com",
+    "careers_page": "https://razorpay.com/jobs/"
+  },
+  {
+    "name": "CRED",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://cred.club",
+    "careers_page": "https://careers.cred.club/"
+  },
+  {
+    "name": "Flipkart",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.flipkart.com",
+    "careers_page": "https://www.flipkartcareers.com/"
+  },
+  {
+    "name": "Myntra",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://www.myntra.com",
+    "careers_page": "https://careers.myntra.com/"
+  },
+  {
+    "name": "Swiggy",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Pune",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.swiggy.com",
+    "careers_page": "https://careers.swiggy.com/"
+  },
+  {
+    "name": "Zomato",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Gurgaon",
+      "Bangalore",
+      "Mumbai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.zomato.com",
+    "careers_page": "https://www.zomato.com/careers"
+  },
+  {
+    "name": "BigBasket",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Pune",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.bigbasket.com",
+    "careers_page": "https://careers.bigbasket.com/"
+  },
+  {
+    "name": "Godrej Group",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.godrej.com",
+    "careers_page": "https://www.godrejcareers.com/"
+  },
+  {
+    "name": "Tata Steel",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.tatasteel.com",
+    "careers_page": "https://www.tatasteel.com/careers/"
+  },
+  {
+    "name": "Mahindra & Mahindra",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Chennai",
+      "Bangalore"
+    ],
+    "website": "https://www.mahindra.com",
+    "careers_page": "https://careers.mahindra.com/"
+  },
+  {
+    "name": "JSW Group",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.jsw.in",
+    "careers_page": "https://www.jsw.in/careers"
+  },
+  {
+    "name": "UltraTech Cement",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.ultratechcement.com",
+    "careers_page": "https://www.ultratechcement.com/about-us/careers"
+  },
+  {
+    "name": "Vodafone Idea",
+    "category": "Telecommunications",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.myvi.in",
+    "careers_page": "https://www.myvi.in/careers"
+  },
+  {
+    "name": "BSNL",
+    "category": "Telecommunications",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.bsnl.co.in",
+    "careers_page": "https://www.bsnl.co.in/opencms/bsnl/BSNL/careers/"
+  },
+  {
+    "name": "Dr. Reddy's Laboratories",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Hyderabad",
+      "Mumbai",
+      "Bangalore",
+      "Chennai"
+    ],
+    "website": "https://www.drreddys.com",
+    "careers_page": "https://www.drreddys.com/careers/"
+  },
+  {
+    "name": "Cipla",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.cipla.com",
+    "careers_page": "https://www.cipla.com/careers"
+  },
+  {
+    "name": "Sun Pharmaceutical",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.sunpharma.com",
+    "careers_page": "https://www.sunpharma.com/careers"
+  },
+  {
+    "name": "Apollo Hospitals",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Chennai",
+      "Mumbai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.apollohospitals.com",
+    "careers_page": "https://www.apollohospitals.com/careers/"
+  },
+  {
+    "name": "Fortis Healthcare",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.fortishealthcare.com",
+    "careers_page": "https://www.fortishealthcare.com/careers"
+  },
+  {
+    "name": "Adani Group",
+    "category": "Energy & Utilities",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.adani.com",
+    "careers_page": "https://careers.adani.com/"
+  },
+  {
+    "name": "Reliance Industries",
+    "category": "Energy & Utilities",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.ril.com",
+    "careers_page": "https://careers.ril.com/"
+  },
+  {
+    "name": "NTPC Limited",
+    "category": "Energy & Utilities",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.ntpc.co.in",
+    "careers_page": "https://www.ntpc.co.in/career"
+  },
+  {
+    "name": "ONGC",
+    "category": "Energy & Utilities",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.ongcindia.com",
+    "careers_page": "https://www.ongcindia.com/wps/wcm/connect/en/career/"
+  },
+  {
+    "name": "Zee Entertainment",
+    "category": "Media & Entertainment",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.zee.com",
+    "careers_page": "https://www.zee.com/careers/"
+  },
+  {
+    "name": "Star India",
+    "category": "Media & Entertainment",
+    "locations": [
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.hotstar.com",
+    "careers_page": "https://www.hotstar.com/careers"
+  },
+  {
+    "name": "Sony Pictures Networks",
+    "category": "Media & Entertainment",
+    "locations": [
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.sonypicturesnetworks.com",
+    "careers_page": "https://www.sonypicturesnetworks.com/careers"
+  },
+  {
+    "name": "Soft Pvt Ltd",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Pune",
+      "Mumbai",
+      "Chennai",
+      "Navi Mumbai",
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "website": "https://www.soft.com",
+    "careers_page": "https://www.soft.com/careers"
+  },
+  {
+    "name": "LogicGreen Applications",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Pune"
+    ],
+    "website": "https://www.logicgreenappli.net",
+    "careers_page": "https://www.logicgreenappli.net/careers"
+  },
+  {
+    "name": "Ultra Incorporated",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Hyderabad",
+      "Mumbai",
+      "Bangalore"
+    ],
+    "website": "https://www.ultraincorporat.net",
+    "careers_page": "https://www.ultraincorporat.net/careers"
+  },
+  {
+    "name": "DynamicUltra Universal",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai",
+      "Bangalore",
+      "Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.dynamicultrauni.co.in",
+    "careers_page": "https://www.dynamicultrauni.co.in/careers"
+  },
+  {
+    "name": "Super Incorporated",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.superincorporat.tech",
+    "careers_page": "https://www.superincorporat.tech/careers"
+  },
+  {
+    "name": "Global Dynamics",
+    "category": "Other",
+    "locations": [
+      "Navi Mumbai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.globaldynamics.com",
+    "careers_page": "https://www.globaldynamics.com/jobs"
+  },
+  {
+    "name": "Top Group",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Bangalore",
+      "Pune",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Mumbai"
+    ],
+    "website": "https://www.topgroup.org",
+    "careers_page": "https://www.topgroup.org/careers"
+  },
+  {
+    "name": "SigmaOmega Technologies",
+    "category": "FMCG & Consumer Goods",
+    "locations": [
+      "Bangalore",
+      "Chennai",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Mumbai"
+    ],
+    "website": "https://www.sigmaomegatechn.co.in",
+    "careers_page": "https://www.sigmaomegatechn.co.in/careers"
+  },
+  {
+    "name": "Pinnacle International",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.pinnacleinterna.co.in",
+    "careers_page": "https://www.pinnacleinterna.co.in/careers"
+  },
+  {
+    "name": "Dynamic Private",
+    "category": "Insurance",
+    "locations": [
+      "Navi Mumbai",
+      "Pune",
+      "Mumbai"
+    ],
+    "website": "https://www.dynamic.co.in",
+    "careers_page": "https://www.dynamic.co.in/careers"
+  },
+  {
+    "name": "Pinnacle Incorporated",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Chennai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.pinnacleincorpo.in",
+    "careers_page": "https://www.pinnacleincorpo.in/careers"
+  },
+  {
+    "name": "TurboInnovative Inc",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai",
+      "Hyderabad",
+      "Chennai",
+      "Navi Mumbai",
+      "Bangalore",
+      "Pune"
+    ],
+    "website": "https://www.turboinnovative.com",
+    "careers_page": "https://www.turboinnovative.com/careers"
+  },
+  {
+    "name": "Nexus Research",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Mumbai"
+    ],
+    "website": "https://www.nexusresearch.tech",
+    "careers_page": "https://www.nexusresearch.tech/jobs"
+  },
+  {
+    "name": "Elite Associates",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Chennai",
+      "Bangalore",
+      "Pune",
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.eliteassociates.tech",
+    "careers_page": "https://www.eliteassociates.tech/careers"
+  },
+  {
+    "name": "Global Creations",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.globalcreations.in",
+    "careers_page": "https://www.globalcreations.in/careers"
+  },
+  {
+    "name": "FusionAlpha Solutions",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai",
+      "Pune",
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "website": "https://www.fusionalphasolu.tech",
+    "careers_page": "https://www.fusionalphasolu.tech/jobs"
+  },
+  {
+    "name": "Modern Associates",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Pune"
+    ],
+    "website": "https://www.modernassociate.tech",
+    "careers_page": "https://www.modernassociate.tech/careers"
+  },
+  {
+    "name": "Next Incorporated",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.nextincorporate.com",
+    "careers_page": "https://www.nextincorporate.com/careers"
+  },
+  {
+    "name": "Supreme Innovations",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Navi Mumbai",
+      "Chennai",
+      "Hyderabad",
+      "Pune"
+    ],
+    "website": "https://www.supremeinnovati.net",
+    "careers_page": "https://www.supremeinnovati.net/careers"
+  },
+  {
+    "name": "Royal Associates",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Navi Mumbai",
+      "Pune",
+      "Mumbai"
+    ],
+    "website": "https://www.royalassociates.net",
+    "careers_page": "https://www.royalassociates.net/jobs"
+  },
+  {
+    "name": "TurboAdvanced Group",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.turboadvancedgr.tech",
+    "careers_page": "https://www.turboadvancedgr.tech/jobs"
+  },
+  {
+    "name": "RedMega Incorporated",
+    "category": "Insurance",
+    "locations": [
+      "Hyderabad",
+      "Pune",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.redmegaincorpor.org",
+    "careers_page": "https://www.redmegaincorpor.org/careers"
+  },
+  {
+    "name": "Pinnacle Networks",
+    "category": "Other",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Bangalore",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.pinnaclenetwork.com",
+    "careers_page": "https://www.pinnaclenetwork.com/careers"
+  },
+  {
+    "name": "Unique Incorporated",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai",
+      "Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.uniqueincorpora.org",
+    "careers_page": "https://www.uniqueincorpora.org/jobs"
+  },
+  {
+    "name": "Code Products",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Navi Mumbai",
+      "Hyderabad",
+      "Bangalore",
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.codeproducts.co.in",
+    "careers_page": "https://www.codeproducts.co.in/jobs"
+  },
+  {
+    "name": "Peak Enterprises",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.peakenterprises.org",
+    "careers_page": "https://www.peakenterprises.org/jobs"
+  },
+  {
+    "name": "Vertex Technologies",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.vertextechnolog.net",
+    "careers_page": "https://www.vertextechnolog.net/careers"
+  },
+  {
+    "name": "FutureLogic Innovations",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Bangalore",
+      "Pune",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.futurelogicinno.net",
+    "careers_page": "https://www.futurelogicinno.net/careers"
+  },
+  {
+    "name": "Turbo Networks",
+    "category": "FMCG & Consumer Goods",
+    "locations": [
+      "Chennai"
+    ],
+    "website": "https://www.turbonetworks.tech",
+    "careers_page": "https://www.turbonetworks.tech/careers"
+  },
+  {
+    "name": "Byte Associates",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.byteassociates.com",
+    "careers_page": "https://www.byteassociates.com/careers"
+  },
+  {
+    "name": "Peak Associates",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.peakassociates.tech",
+    "careers_page": "https://www.peakassociates.tech/careers"
+  },
+  {
+    "name": "First Creations",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai",
+      "Hyderabad",
+      "Mumbai",
+      "Pune",
+      "Bangalore"
+    ],
+    "website": "https://www.firstcreations.in",
+    "careers_page": "https://www.firstcreations.in/careers"
+  },
+  {
+    "name": "Quantum Inc",
+    "category": "Telecommunications",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.quantuminc.in",
+    "careers_page": "https://www.quantuminc.in/jobs"
+  },
+  {
+    "name": "HyperDelta Applications",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ],
+    "website": "https://www.hyperdeltaappli.co.in",
+    "careers_page": "https://www.hyperdeltaappli.co.in/careers"
+  },
+  {
+    "name": "Green Partners",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Pune",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.greenpartners.tech",
+    "careers_page": "https://www.greenpartners.tech/careers"
+  },
+  {
+    "name": "Ace International",
+    "category": "Energy & Utilities",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://www.aceinternationa.co.in",
+    "careers_page": "https://www.aceinternationa.co.in/careers"
+  },
+  {
+    "name": "SummitFast Private",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Bangalore"
+    ],
+    "website": "https://www.summitfast.org",
+    "careers_page": "https://www.summitfast.org/careers"
+  },
+  {
+    "name": "Green Dynamics",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore"
+    ],
+    "website": "https://www.greendynamics.co.in",
+    "careers_page": "https://www.greendynamics.co.in/careers"
+  },
+  {
+    "name": "AdvancedPeak Applications",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Hyderabad",
+      "Mumbai",
+      "Chennai",
+      "Navi Mumbai",
+      "Bangalore",
+      "Pune"
+    ],
+    "website": "https://www.advancedpeakapp.in",
+    "careers_page": "https://www.advancedpeakapp.in/careers"
+  },
+  {
+    "name": "Delta Development",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Navi Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.deltadevelopmen.net",
+    "careers_page": "https://www.deltadevelopmen.net/careers"
+  },
+  {
+    "name": "Ace Enterprises",
+    "category": "Telecommunications",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Chennai",
+      "Navi Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.aceenterprises.co.in",
+    "careers_page": "https://www.aceenterprises.co.in/jobs"
+  },
+  {
+    "name": "Quantum Limited",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Navi Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.quantum.co.in",
+    "careers_page": "https://www.quantum.co.in/careers"
+  },
+  {
+    "name": "Blue Engineering",
+    "category": "Other",
+    "locations": [
+      "Hyderabad",
+      "Mumbai",
+      "Pune",
+      "Bangalore"
+    ],
+    "website": "https://www.blueengineering.co.in",
+    "careers_page": "https://www.blueengineering.co.in/careers"
+  },
+  {
+    "name": "Blue Associates",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.blueassociates.org",
+    "careers_page": "https://www.blueassociates.org/careers"
+  },
+  {
+    "name": "Data Corp",
+    "category": "Hospitality & Travel",
+    "locations": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.datacorp.org",
+    "careers_page": "https://www.datacorp.org/careers"
+  },
+  {
+    "name": "BetaDelta Creations",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore"
+    ],
+    "website": "https://www.betadeltacreati.org",
+    "careers_page": "https://www.betadeltacreati.org/careers"
+  },
+  {
+    "name": "Mega Research",
+    "category": "Media & Entertainment",
+    "locations": [
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "website": "https://www.megaresearch.com",
+    "careers_page": "https://www.megaresearch.com/careers"
+  },
+  {
+    "name": "Global Technologies",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Bangalore"
+    ],
+    "website": "https://www.globaltechnolog.org",
+    "careers_page": "https://www.globaltechnolog.org/jobs"
+  },
+  {
+    "name": "First Systems",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Navi Mumbai",
+      "Bangalore",
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.firstsystems.tech",
+    "careers_page": "https://www.firstsystems.tech/careers"
+  },
+  {
+    "name": "Sigma National",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.sigmanational.net",
+    "careers_page": "https://www.sigmanational.net/careers"
+  },
+  {
+    "name": "Vertex Solutions",
+    "category": "Education & Research",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Chennai",
+      "Pune",
+      "Mumbai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.vertexsolutions.in",
+    "careers_page": "https://www.vertexsolutions.in/careers"
+  },
+  {
+    "name": "Advanced Global",
+    "category": "Insurance",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.advancedglobal.co.in",
+    "careers_page": "https://www.advancedglobal.co.in/careers"
+  },
+  {
+    "name": "Golden Worldwide",
+    "category": "FMCG & Consumer Goods",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://www.goldenworldwide.co.in",
+    "careers_page": "https://www.goldenworldwide.co.in/careers"
+  },
+  {
+    "name": "Modern Corp",
+    "category": "Other",
+    "locations": [
+      "Pune",
+      "Mumbai",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.moderncorp.net",
+    "careers_page": "https://www.moderncorp.net/careers"
+  },
+  {
+    "name": "Smart Pvt Ltd",
+    "category": "Hospitality & Travel",
+    "locations": [
+      "Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.smart.org",
+    "careers_page": "https://www.smart.org/careers"
+  },
+  {
+    "name": "Fast Group",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Mumbai",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.fastgroup.net",
+    "careers_page": "https://www.fastgroup.net/careers"
+  },
+  {
+    "name": "Green Designs",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Chennai",
+      "Mumbai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.greendesigns.com",
+    "careers_page": "https://www.greendesigns.com/careers"
+  },
+  {
+    "name": "Byte Development",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.bytedevelopment.net",
+    "careers_page": "https://www.bytedevelopment.net/jobs"
+  },
+  {
+    "name": "Cyber Research",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Bangalore",
+      "Pune",
+      "Hyderabad",
+      "Chennai",
+      "Mumbai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.cyberresearch.co.in",
+    "careers_page": "https://www.cyberresearch.co.in/jobs"
+  },
+  {
+    "name": "Future Systems",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Chennai",
+      "Bangalore"
+    ],
+    "website": "https://www.futuresystems.co.in",
+    "careers_page": "https://www.futuresystems.co.in/jobs"
+  },
+  {
+    "name": "HyperPinnacle Worldwide",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Navi Mumbai",
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Bangalore",
+      "Chennai"
+    ],
+    "website": "https://www.hyperpinnaclewo.net",
+    "careers_page": "https://www.hyperpinnaclewo.net/careers"
+  },
+  {
+    "name": "Digital Industries",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Hyderabad"
+    ],
+    "website": "https://www.digitalindustri.com",
+    "careers_page": "https://www.digitalindustri.com/careers"
+  },
+  {
+    "name": "QuantumCode Consultants",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Pune",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "website": "https://www.quantumcodecons.co.in",
+    "careers_page": "https://www.quantumcodecons.co.in/careers"
+  },
+  {
+    "name": "SigmaTurbo Public",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Bangalore",
+      "Navi Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.sigmaturbopubli.net",
+    "careers_page": "https://www.sigmaturbopubli.net/careers"
+  },
+  {
+    "name": "TechFast Development",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.techfastdevelop.in",
+    "careers_page": "https://www.techfastdevelop.in/careers"
+  },
+  {
+    "name": "PeakAdvanced Dynamics",
+    "category": "Education & Research",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Pune",
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.peakadvanceddyn.co.in",
+    "careers_page": "https://www.peakadvanceddyn.co.in/careers"
+  },
+  {
+    "name": "Top Corp",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Bangalore",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.topcorp.co.in",
+    "careers_page": "https://www.topcorp.co.in/careers"
+  },
+  {
+    "name": "Future Applications",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Pune",
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.futureapplicati.co.in",
+    "careers_page": "https://www.futureapplicati.co.in/careers"
+  },
+  {
+    "name": "Byte Engineering",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Hyderabad"
+    ],
+    "website": "https://www.byteengineering.tech",
+    "careers_page": "https://www.byteengineering.tech/careers"
+  },
+  {
+    "name": "Speed Dynamics",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai",
+      "Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.speeddynamics.org",
+    "careers_page": "https://www.speeddynamics.org/careers"
+  },
+  {
+    "name": "Quick Industries",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Hyderabad",
+      "Pune",
+      "Navi Mumbai",
+      "Mumbai"
+    ],
+    "website": "https://www.quickindustries.tech",
+    "careers_page": "https://www.quickindustries.tech/careers"
+  },
+  {
+    "name": "RapidSupreme Public",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Bangalore",
+      "Pune",
+      "Mumbai",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "website": "https://www.rapidsupremepub.net",
+    "careers_page": "https://www.rapidsupremepub.net/careers"
+  },
+  {
+    "name": "Elite Informatics",
+    "category": "Telecommunications",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.eliteinformatic.com",
+    "careers_page": "https://www.eliteinformatic.com/careers"
+  },
+  {
+    "name": "Smart Informatics",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Chennai",
+      "Pune",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.smartinformatic.co.in",
+    "careers_page": "https://www.smartinformatic.co.in/careers"
+  },
+  {
+    "name": "Delta Universal",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://www.deltauniversal.net",
+    "careers_page": "https://www.deltauniversal.net/careers"
+  },
+  {
+    "name": "Innovative Designs",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.innovativedesig.org",
+    "careers_page": "https://www.innovativedesig.org/careers"
+  },
+  {
+    "name": "Quantum Corp",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Mumbai"
+    ],
+    "website": "https://www.quantumcorp.co.in",
+    "careers_page": "https://www.quantumcorp.co.in/careers"
+  },
+  {
+    "name": "Sigma Consultants",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Navi Mumbai",
+      "Chennai",
+      "Mumbai"
+    ],
+    "website": "https://www.sigmaconsultant.co.in",
+    "careers_page": "https://www.sigmaconsultant.co.in/careers"
+  },
+  {
+    "name": "Net Enterprises",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Hyderabad",
+      "Chennai"
+    ],
+    "website": "https://www.netenterprises.tech",
+    "careers_page": "https://www.netenterprises.tech/careers"
+  },
+  {
+    "name": "Fast Public",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.fastpublic.com",
+    "careers_page": "https://www.fastpublic.com/jobs"
+  },
+  {
+    "name": "CreativeHyper National",
+    "category": "Other",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.creativehyperna.net",
+    "careers_page": "https://www.creativehyperna.net/jobs"
+  },
+  {
+    "name": "InnovativeGlobal Worldwide",
+    "category": "Other",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.innovativegloba.com",
+    "careers_page": "https://www.innovativegloba.com/careers"
+  },
+  {
+    "name": "Creative Group",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Pune",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.creativegroup.tech",
+    "careers_page": "https://www.creativegroup.tech/careers"
+  },
+  {
+    "name": "Golden Ventures",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Bangalore",
+      "Pune",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "website": "https://www.goldenventures.in",
+    "careers_page": "https://www.goldenventures.in/jobs"
+  },
+  {
+    "name": "WebModern Engineering",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.webmodernengine.net",
+    "careers_page": "https://www.webmodernengine.net/jobs"
+  },
+  {
+    "name": "Cyber Associates",
+    "category": "Other",
+    "locations": [
+      "Pune",
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://www.cyberassociates.tech",
+    "careers_page": "https://www.cyberassociates.tech/jobs"
+  },
+  {
+    "name": "DynamicCode Global",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.dynamiccodeglob.org",
+    "careers_page": "https://www.dynamiccodeglob.org/careers"
+  },
+  {
+    "name": "Advanced Designs",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Hyderabad",
+      "Navi Mumbai",
+      "Pune",
+      "Mumbai",
+      "Chennai",
+      "Bangalore"
+    ],
+    "website": "https://www.advanceddesigns.org",
+    "careers_page": "https://www.advanceddesigns.org/jobs"
+  },
+  {
+    "name": "Beta Creations",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Navi Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.betacreations.co.in",
+    "careers_page": "https://www.betacreations.co.in/jobs"
+  },
+  {
+    "name": "Omega Private",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Pune",
+      "Bangalore",
+      "Navi Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.omega.org",
+    "careers_page": "https://www.omega.org/careers"
+  },
+  {
+    "name": "Supreme Worldwide",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "website": "https://www.supremeworldwid.tech",
+    "careers_page": "https://www.supremeworldwid.tech/careers"
+  },
+  {
+    "name": "Peak Worldwide",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Hyderabad",
+      "Mumbai",
+      "Navi Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Pune"
+    ],
+    "website": "https://www.peakworldwide.com",
+    "careers_page": "https://www.peakworldwide.com/jobs"
+  },
+  {
+    "name": "Info Corporation",
+    "category": "Other",
+    "locations": [
+      "Hyderabad",
+      "Pune",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.infocorporation.co.in",
+    "careers_page": "https://www.infocorporation.co.in/careers"
+  },
+  {
+    "name": "Data Dynamics",
+    "category": "Telecommunications",
+    "locations": [
+      "Hyderabad"
+    ],
+    "website": "https://www.datadynamics.tech",
+    "careers_page": "https://www.datadynamics.tech/careers"
+  },
+  {
+    "name": "GoldenFast Private",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Bangalore"
+    ],
+    "website": "https://www.goldenfast.net",
+    "careers_page": "https://www.goldenfast.net/careers"
+  },
+  {
+    "name": "Omega Engineering",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "website": "https://www.omegaengineerin.co.in",
+    "careers_page": "https://www.omegaengineerin.co.in/careers"
+  },
+  {
+    "name": "Beta Corp",
+    "category": "Energy & Utilities",
+    "locations": [
+      "Hyderabad",
+      "Bangalore",
+      "Pune"
+    ],
+    "website": "https://www.betacorp.net",
+    "careers_page": "https://www.betacorp.net/careers"
+  },
+  {
+    "name": "Data Creations",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai"
+    ],
+    "website": "https://www.datacreations.net",
+    "careers_page": "https://www.datacreations.net/careers"
+  },
+  {
+    "name": "InfoDynamic Networks",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Hyderabad",
+      "Navi Mumbai",
+      "Mumbai",
+      "Bangalore",
+      "Pune"
+    ],
+    "website": "https://www.infodynamicnetw.co.in",
+    "careers_page": "https://www.infodynamicnetw.co.in/jobs"
+  },
+  {
+    "name": "Green Associates",
+    "category": "Energy & Utilities",
+    "locations": [
+      "Pune"
+    ],
+    "website": "https://www.greenassociates.org",
+    "careers_page": "https://www.greenassociates.org/careers"
+  },
+  {
+    "name": "SmartTop Innovations",
+    "category": "FMCG & Consumer Goods",
+    "locations": [
+      "Navi Mumbai",
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Pune"
+    ],
+    "website": "https://www.smarttopinnovat.tech",
+    "careers_page": "https://www.smarttopinnovat.tech/careers"
+  },
+  {
+    "name": "Modern Inc",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "website": "https://www.moderninc.co.in",
+    "careers_page": "https://www.moderninc.co.in/careers"
+  },
+  {
+    "name": "Omega Designs",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai",
+      "Mumbai",
+      "Bangalore",
+      "Navi Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.omegadesigns.com",
+    "careers_page": "https://www.omegadesigns.com/careers"
+  },
+  {
+    "name": "Royal Applications",
+    "category": "Other",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Bangalore",
+      "Pune"
+    ],
+    "website": "https://www.royalapplicatio.net",
+    "careers_page": "https://www.royalapplicatio.net/jobs"
+  },
+  {
+    "name": "Quantum Applications",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.quantumapplicat.com",
+    "careers_page": "https://www.quantumapplicat.com/careers"
+  },
+  {
+    "name": "Code Creations",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.codecreations.tech",
+    "careers_page": "https://www.codecreations.tech/jobs"
+  },
+  {
+    "name": "Dynamic Ventures",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.dynamicventures.in",
+    "careers_page": "https://www.dynamicventures.in/careers"
+  },
+  {
+    "name": "RedFirst Group",
+    "category": "Other",
+    "locations": [
+      "Bangalore",
+      "Navi Mumbai",
+      "Mumbai",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "website": "https://www.redfirstgroup.tech",
+    "careers_page": "https://www.redfirstgroup.tech/jobs"
+  },
+  {
+    "name": "Fast Corp",
+    "category": "Hospitality & Travel",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Chennai",
+      "Pune",
+      "Navi Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.fastcorp.co.in",
+    "careers_page": "https://www.fastcorp.co.in/careers"
+  },
+  {
+    "name": "Vertex Public",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.vertexpublic.org",
+    "careers_page": "https://www.vertexpublic.org/careers"
+  },
+  {
+    "name": "First Incorporated",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Navi Mumbai",
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://www.firstincorporat.in",
+    "careers_page": "https://www.firstincorporat.in/jobs"
+  },
+  {
+    "name": "SpeedModern Systems",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Hyderabad",
+      "Bangalore",
+      "Pune",
+      "Mumbai",
+      "Chennai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.speedmodernsyst.tech",
+    "careers_page": "https://www.speedmodernsyst.tech/careers"
+  },
+  {
+    "name": "Info Group",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Mumbai"
+    ],
+    "website": "https://www.infogroup.org",
+    "careers_page": "https://www.infogroup.org/careers"
+  },
+  {
+    "name": "Vertex Industries",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Chennai",
+      "Pune",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "website": "https://www.vertexindustrie.org",
+    "careers_page": "https://www.vertexindustrie.org/careers"
+  },
+  {
+    "name": "HyperTurbo Partners",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Pune",
+      "Mumbai",
+      "Bangalore",
+      "Navi Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.hyperturbopartn.com",
+    "careers_page": "https://www.hyperturbopartn.com/jobs"
+  },
+  {
+    "name": "Creative Corp",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Chennai",
+      "Pune",
+      "Bangalore"
+    ],
+    "website": "https://www.creativecorp.co.in",
+    "careers_page": "https://www.creativecorp.co.in/jobs"
+  },
+  {
+    "name": "Swift Products",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Chennai",
+      "Mumbai"
+    ],
+    "website": "https://www.swiftproducts.tech",
+    "careers_page": "https://www.swiftproducts.tech/jobs"
+  },
+  {
+    "name": "Unique Technologies",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.uniquetechnolog.in",
+    "careers_page": "https://www.uniquetechnolog.in/careers"
+  },
+  {
+    "name": "Vertex Enterprises",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.vertexenterpris.co.in",
+    "careers_page": "https://www.vertexenterpris.co.in/jobs"
+  },
+  {
+    "name": "RapidCode Inc",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Navi Mumbai",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "website": "https://www.rapidcodeinc.in",
+    "careers_page": "https://www.rapidcodeinc.in/careers"
+  },
+  {
+    "name": "SmartElite Global",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Mumbai"
+    ],
+    "website": "https://www.smartelitegloba.in",
+    "careers_page": "https://www.smartelitegloba.in/careers"
+  },
+  {
+    "name": "PinnacleBlue Corporation",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai",
+      "Mumbai",
+      "Bangalore"
+    ],
+    "website": "https://www.pinnaclebluecor.com",
+    "careers_page": "https://www.pinnaclebluecor.com/jobs"
+  },
+  {
+    "name": "Rapid International",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.rapidinternatio.tech",
+    "careers_page": "https://www.rapidinternatio.tech/careers"
+  },
+  {
+    "name": "MegaSoft Solutions",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.megasoftsolutio.in",
+    "careers_page": "https://www.megasoftsolutio.in/jobs"
+  },
+  {
+    "name": "Super Corp",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.supercorp.in",
+    "careers_page": "https://www.supercorp.in/careers"
+  },
+  {
+    "name": "BestByte Enterprises",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Pune",
+      "Bangalore"
+    ],
+    "website": "https://www.bestbyteenterpr.in",
+    "careers_page": "https://www.bestbyteenterpr.in/careers"
+  },
+  {
+    "name": "Fusion Applications",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai"
+    ],
+    "website": "https://www.fusionapplicati.co.in",
+    "careers_page": "https://www.fusionapplicati.co.in/jobs"
+  },
+  {
+    "name": "Dynamic Systems",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.dynamicsystems.org",
+    "careers_page": "https://www.dynamicsystems.org/careers"
+  },
+  {
+    "name": "Creative Solutions",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.creativesolutio.co.in",
+    "careers_page": "https://www.creativesolutio.co.in/careers"
+  },
+  {
+    "name": "Advanced Group",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Bangalore",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.advancedgroup.tech",
+    "careers_page": "https://www.advancedgroup.tech/careers"
+  },
+  {
+    "name": "AlphaQuantum Worldwide",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Navi Mumbai",
+      "Chennai",
+      "Pune",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.alphaquantumwor.com",
+    "careers_page": "https://www.alphaquantumwor.com/careers"
+  },
+  {
+    "name": "Swift Inc",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Hyderabad",
+      "Pune"
+    ],
+    "website": "https://www.swiftinc.co.in",
+    "careers_page": "https://www.swiftinc.co.in/careers"
+  },
+  {
+    "name": "Super Applications",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Chennai",
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.superapplicatio.in",
+    "careers_page": "https://www.superapplicatio.in/careers"
+  },
+  {
+    "name": "First Informatics",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Pune",
+      "Navi Mumbai",
+      "Mumbai",
+      "Chennai",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "website": "https://www.firstinformatic.co.in",
+    "careers_page": "https://www.firstinformatic.co.in/jobs"
+  },
+  {
+    "name": "Green Incorporated",
+    "category": "Other",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.greenincorporat.tech",
+    "careers_page": "https://www.greenincorporat.tech/careers"
+  },
+  {
+    "name": "Elite Partners",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.elitepartners.net",
+    "careers_page": "https://www.elitepartners.net/careers"
+  },
+  {
+    "name": "SummitData Partners",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Mumbai",
+      "Chennai",
+      "Pune"
+    ],
+    "website": "https://www.summitdatapartn.in",
+    "careers_page": "https://www.summitdatapartn.in/careers"
+  },
+  {
+    "name": "Green Products",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai"
+    ],
+    "website": "https://www.greenproducts.in",
+    "careers_page": "https://www.greenproducts.in/careers"
+  },
+  {
+    "name": "Beta Partners",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Navi Mumbai",
+      "Chennai",
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.betapartners.com",
+    "careers_page": "https://www.betapartners.com/careers"
+  },
+  {
+    "name": "OmegaPinnacle Works",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai",
+      "Chennai",
+      "Hyderabad",
+      "Bangalore",
+      "Pune"
+    ],
+    "website": "https://www.omegapinnaclewo.co.in",
+    "careers_page": "https://www.omegapinnaclewo.co.in/careers"
+  },
+  {
+    "name": "Future Ventures",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Pune",
+      "Navi Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.futureventures.com",
+    "careers_page": "https://www.futureventures.com/jobs"
+  },
+  {
+    "name": "Ace Incorporated",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.aceincorporated.com",
+    "careers_page": "https://www.aceincorporated.com/careers"
+  },
+  {
+    "name": "Red Associates",
+    "category": "Other",
+    "locations": [
+      "Chennai"
+    ],
+    "website": "https://www.redassociates.com",
+    "careers_page": "https://www.redassociates.com/jobs"
+  },
+  {
+    "name": "BytePinnacle Informatics",
+    "category": "Education & Research",
+    "locations": [
+      "Pune",
+      "Chennai",
+      "Mumbai",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Bangalore"
+    ],
+    "website": "https://www.bytepinnacleinf.co.in",
+    "careers_page": "https://www.bytepinnacleinf.co.in/careers"
+  },
+  {
+    "name": "Royal Innovations",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Mumbai",
+      "Chennai",
+      "Navi Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.royalinnovation.com",
+    "careers_page": "https://www.royalinnovation.com/careers"
+  },
+  {
+    "name": "Nexus Worldwide",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://www.nexusworldwide.net",
+    "careers_page": "https://www.nexusworldwide.net/careers"
+  },
+  {
+    "name": "Digital Consultants",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore"
+    ],
+    "website": "https://www.digitalconsulta.org",
+    "careers_page": "https://www.digitalconsulta.org/careers"
+  },
+  {
+    "name": "Royal Development",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Pune",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.royaldevelopmen.org",
+    "careers_page": "https://www.royaldevelopmen.org/careers"
+  },
+  {
+    "name": "Smart Limited",
+    "category": "Other",
+    "locations": [
+      "Navi Mumbai",
+      "Mumbai"
+    ],
+    "website": "https://www.smart.in",
+    "careers_page": "https://www.smart.in/jobs"
+  },
+  {
+    "name": "Cloud Products",
+    "category": "Telecommunications",
+    "locations": [
+      "Navi Mumbai",
+      "Pune",
+      "Chennai",
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "website": "https://www.cloudproducts.org",
+    "careers_page": "https://www.cloudproducts.org/careers"
+  },
+  {
+    "name": "Sigma Industries",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Bangalore",
+      "Pune",
+      "Chennai",
+      "Navi Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.sigmaindustries.net",
+    "careers_page": "https://www.sigmaindustries.net/careers"
+  },
+  {
+    "name": "First Pvt Ltd",
+    "category": "Other",
+    "locations": [
+      "Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Bangalore"
+    ],
+    "website": "https://www.first.tech",
+    "careers_page": "https://www.first.tech/careers"
+  },
+  {
+    "name": "TurboAce Dynamics",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Hyderabad",
+      "Bangalore",
+      "Navi Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.turboacedynamic.com",
+    "careers_page": "https://www.turboacedynamic.com/careers"
+  },
+  {
+    "name": "Best Designs",
+    "category": "Insurance",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.bestdesigns.org",
+    "careers_page": "https://www.bestdesigns.org/careers"
+  },
+  {
+    "name": "FusionHyper Creations",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Pune",
+      "Mumbai",
+      "Bangalore",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.fusionhypercrea.com",
+    "careers_page": "https://www.fusionhypercrea.com/careers"
+  },
+  {
+    "name": "Speed Informatics",
+    "category": "Hospitality & Travel",
+    "locations": [
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.speedinformatic.com",
+    "careers_page": "https://www.speedinformatic.com/careers"
+  },
+  {
+    "name": "QuickCyber Works",
+    "category": "Telecommunications",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "website": "https://www.quickcyberworks.org",
+    "careers_page": "https://www.quickcyberworks.org/jobs"
+  },
+  {
+    "name": "Info Corp",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Bangalore"
+    ],
+    "website": "https://www.infocorp.tech",
+    "careers_page": "https://www.infocorp.tech/careers"
+  },
+  {
+    "name": "SuperNet Products",
+    "category": "Telecommunications",
+    "locations": [
+      "Mumbai",
+      "Bangalore"
+    ],
+    "website": "https://www.supernetproduct.org",
+    "careers_page": "https://www.supernetproduct.org/jobs"
+  },
+  {
+    "name": "Digital Associates",
+    "category": "Real Estate & Construction",
+    "locations": [
+      "Bangalore",
+      "Chennai"
+    ],
+    "website": "https://www.digitalassociat.co.in",
+    "careers_page": "https://www.digitalassociat.co.in/careers"
+  },
+  {
+    "name": "Sigma Public",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Pune"
+    ],
+    "website": "https://www.sigmapublic.in",
+    "careers_page": "https://www.sigmapublic.in/careers"
+  },
+  {
+    "name": "Peak Dynamics",
+    "category": "Media & Entertainment",
+    "locations": [
+      "Hyderabad",
+      "Chennai",
+      "Mumbai",
+      "Bangalore",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.peakdynamics.co.in",
+    "careers_page": "https://www.peakdynamics.co.in/jobs"
+  },
+  {
+    "name": "Tech Dynamics",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Navi Mumbai",
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "website": "https://www.techdynamics.net",
+    "careers_page": "https://www.techdynamics.net/careers"
+  },
+  {
+    "name": "Code Inc",
+    "category": "Hospitality & Travel",
+    "locations": [
+      "Hyderabad",
+      "Bangalore",
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.codeinc.tech",
+    "careers_page": "https://www.codeinc.tech/careers"
+  },
+  {
+    "name": "Dynamic Group",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Hyderabad",
+      "Mumbai",
+      "Chennai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.dynamicgroup.in",
+    "careers_page": "https://www.dynamicgroup.in/careers"
+  },
+  {
+    "name": "Swift Consultants",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Hyderabad",
+      "Chennai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.swiftconsultant.tech",
+    "careers_page": "https://www.swiftconsultant.tech/careers"
+  },
+  {
+    "name": "Soft Inc",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.softinc.net",
+    "careers_page": "https://www.softinc.net/careers"
+  },
+  {
+    "name": "Data Services",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.dataservices.tech",
+    "careers_page": "https://www.dataservices.tech/careers"
+  },
+  {
+    "name": "RapidGolden Global",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Chennai",
+      "Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.rapidgoldenglob.net",
+    "careers_page": "https://www.rapidgoldenglob.net/jobs"
+  },
+  {
+    "name": "GreenBeta Industries",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.greenbetaindust.co.in",
+    "careers_page": "https://www.greenbetaindust.co.in/careers"
+  },
+  {
+    "name": "Info Private",
+    "category": "Media & Entertainment",
+    "locations": [
+      "Mumbai"
+    ],
+    "website": "https://www.info.co.in",
+    "careers_page": "https://www.info.co.in/careers"
+  },
+  {
+    "name": "PrimeInnovative Networks",
+    "category": "Other",
+    "locations": [
+      "Mumbai",
+      "Hyderabad",
+      "Chennai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.primeinnovative.com",
+    "careers_page": "https://www.primeinnovative.com/jobs"
+  },
+  {
+    "name": "Dynamic Dynamics",
+    "category": "Telecommunications",
+    "locations": [
+      "Pune"
+    ],
+    "website": "https://www.dynamicdynamics.co.in",
+    "careers_page": "https://www.dynamicdynamics.co.in/careers"
+  },
+  {
+    "name": "Logic Incorporated",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Chennai",
+      "Bangalore"
+    ],
+    "website": "https://www.logicincorporat.org",
+    "careers_page": "https://www.logicincorporat.org/careers"
+  },
+  {
+    "name": "Omega Works",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai",
+      "Bangalore",
+      "Chennai",
+      "Navi Mumbai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.omegaworks.in",
+    "careers_page": "https://www.omegaworks.in/careers"
+  },
+  {
+    "name": "Web Partners",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.webpartners.net",
+    "careers_page": "https://www.webpartners.net/careers"
+  },
+  {
+    "name": "Next Engineering",
+    "category": "Real Estate & Construction",
+    "locations": [
+      "Pune",
+      "Hyderabad",
+      "Bangalore",
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.nextengineering.net",
+    "careers_page": "https://www.nextengineering.net/careers"
+  },
+  {
+    "name": "Hyper Universal",
+    "category": "Hospitality & Travel",
+    "locations": [
+      "Pune",
+      "Mumbai",
+      "Chennai",
+      "Bangalore",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.hyperuniversal.net",
+    "careers_page": "https://www.hyperuniversal.net/careers"
+  },
+  {
+    "name": "Logic Universal",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Mumbai",
+      "Chennai",
+      "Hyderabad",
+      "Bangalore",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.logicuniversal.in",
+    "careers_page": "https://www.logicuniversal.in/jobs"
+  },
+  {
+    "name": "First Private",
+    "category": "Real Estate & Construction",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Hyderabad",
+      "Pune",
+      "Chennai",
+      "Bangalore"
+    ],
+    "website": "https://www.first.co.in",
+    "careers_page": "https://www.first.co.in/careers"
+  },
+  {
+    "name": "PinnacleSigma Engineering",
+    "category": "Insurance",
+    "locations": [
+      "Mumbai",
+      "Navi Mumbai",
+      "Bangalore"
+    ],
+    "website": "https://www.pinnaclesigmaen.in",
+    "careers_page": "https://www.pinnaclesigmaen.in/careers"
+  },
+  {
+    "name": "OmegaGolden Systems",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Pune",
+      "Bangalore"
+    ],
+    "website": "https://www.omegagoldensyst.net",
+    "careers_page": "https://www.omegagoldensyst.net/careers"
+  },
+  {
+    "name": "ByteHyper Associates",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Pune",
+      "Bangalore",
+      "Mumbai",
+      "Chennai",
+      "Navi Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.bytehyperassoci.net",
+    "careers_page": "https://www.bytehyperassoci.net/careers"
+  },
+  {
+    "name": "Next Works",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.nextworks.in",
+    "careers_page": "https://www.nextworks.in/careers"
+  },
+  {
+    "name": "UniqueElite Group",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Navi Mumbai",
+      "Pune",
+      "Bangalore",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "website": "https://www.uniqueelitegrou.co.in",
+    "careers_page": "https://www.uniqueelitegrou.co.in/jobs"
+  },
+  {
+    "name": "Royal Systems",
+    "category": "Other",
+    "locations": [
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.royalsystems.in",
+    "careers_page": "https://www.royalsystems.in/jobs"
+  },
+  {
+    "name": "SigmaFirst Limited",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Hyderabad",
+      "Chennai"
+    ],
+    "website": "https://www.sigmafirst.in",
+    "careers_page": "https://www.sigmafirst.in/careers"
+  },
+  {
+    "name": "Best Technologies",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Mumbai",
+      "Navi Mumbai",
+      "Bangalore",
+      "Pune"
+    ],
+    "website": "https://www.besttechnologie.tech",
+    "careers_page": "https://www.besttechnologie.tech/jobs"
+  },
+  {
+    "name": "Sigma Research",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Hyderabad",
+      "Pune",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.sigmaresearch.com",
+    "careers_page": "https://www.sigmaresearch.com/jobs"
+  },
+  {
+    "name": "Advanced Partners",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Pune",
+      "Chennai",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "website": "https://www.advancedpartner.org",
+    "careers_page": "https://www.advancedpartner.org/careers"
+  },
+  {
+    "name": "Innovative Global",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.innovativegloba.com",
+    "careers_page": "https://www.innovativegloba.com/jobs"
+  },
+  {
+    "name": "Modern Enterprises",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Hyderabad"
+    ],
+    "website": "https://www.modernenterpris.net",
+    "careers_page": "https://www.modernenterpris.net/jobs"
+  },
+  {
+    "name": "Blue Corporation",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.bluecorporation.co.in",
+    "careers_page": "https://www.bluecorporation.co.in/jobs"
+  },
+  {
+    "name": "AdvancedInnovative Corporation",
+    "category": "Other",
+    "locations": [
+      "Navi Mumbai"
+    ],
+    "website": "https://www.advancedinnovat.co.in",
+    "careers_page": "https://www.advancedinnovat.co.in/careers"
+  },
+  {
+    "name": "Byte Group",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Chennai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.bytegroup.co.in",
+    "careers_page": "https://www.bytegroup.co.in/careers"
+  },
+  {
+    "name": "Royal Partners",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Pune"
+    ],
+    "website": "https://www.royalpartners.co.in",
+    "careers_page": "https://www.royalpartners.co.in/careers"
+  },
+  {
+    "name": "Future Limited",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Chennai"
+    ],
+    "website": "https://www.future.com",
+    "careers_page": "https://www.future.com/careers"
+  },
+  {
+    "name": "Net Applications",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "website": "https://www.netapplications.com",
+    "careers_page": "https://www.netapplications.com/careers"
+  },
+  {
+    "name": "Ultra Creations",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Hyderabad",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.ultracreations.in",
+    "careers_page": "https://www.ultracreations.in/careers"
+  },
+  {
+    "name": "FusionBeta Group",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai"
+    ],
+    "website": "https://www.fusionbetagroup.co.in",
+    "careers_page": "https://www.fusionbetagroup.co.in/careers"
+  },
+  {
+    "name": "Top Public",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "website": "https://www.toppublic.co.in",
+    "careers_page": "https://www.toppublic.co.in/jobs"
+  },
+  {
+    "name": "SwiftNew Services",
+    "category": "Insurance",
+    "locations": [
+      "Chennai",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Bangalore"
+    ],
+    "website": "https://www.swiftnewservice.tech",
+    "careers_page": "https://www.swiftnewservice.tech/careers"
+  },
+  {
+    "name": "AceSuper Private",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Hyderabad",
+      "Chennai",
+      "Pune",
+      "Mumbai",
+      "Navi Mumbai",
+      "Bangalore"
+    ],
+    "website": "https://www.acesuper.net",
+    "careers_page": "https://www.acesuper.net/careers"
+  },
+  {
+    "name": "Omega Partners",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Chennai",
+      "Navi Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.omegapartners.tech",
+    "careers_page": "https://www.omegapartners.tech/careers"
+  },
+  {
+    "name": "Supreme Corp",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Mumbai"
+    ],
+    "website": "https://www.supremecorp.in",
+    "careers_page": "https://www.supremecorp.in/jobs"
+  },
+  {
+    "name": "TechSigma Solutions",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Navi Mumbai"
+    ],
+    "website": "https://www.techsigmasoluti.in",
+    "careers_page": "https://www.techsigmasoluti.in/careers"
+  },
+  {
+    "name": "SmartBeta Development",
+    "category": "Education & Research",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.smartbetadevelo.in",
+    "careers_page": "https://www.smartbetadevelo.in/careers"
+  },
+  {
+    "name": "Data Engineering",
+    "category": "Insurance",
+    "locations": [
+      "Chennai",
+      "Mumbai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "website": "https://www.dataengineering.com",
+    "careers_page": "https://www.dataengineering.com/careers"
+  },
+  {
+    "name": "Tech Associates",
+    "category": "FMCG & Consumer Goods",
+    "locations": [
+      "Navi Mumbai",
+      "Mumbai",
+      "Hyderabad",
+      "Pune"
+    ],
+    "website": "https://www.techassociates.tech",
+    "careers_page": "https://www.techassociates.tech/careers"
+  },
+  {
+    "name": "Golden Industries",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore"
+    ],
+    "website": "https://www.goldenindustrie.org",
+    "careers_page": "https://www.goldenindustrie.org/careers"
+  },
+  {
+    "name": "MatrixSmart Industries",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Chennai",
+      "Navi Mumbai",
+      "Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.matrixsmartindu.co.in",
+    "careers_page": "https://www.matrixsmartindu.co.in/careers"
+  },
+  {
+    "name": "AdvancedMatrix Ventures",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Hyderabad",
+      "Pune",
+      "Bangalore"
+    ],
+    "website": "https://www.advancedmatrixv.tech",
+    "careers_page": "https://www.advancedmatrixv.tech/careers"
+  },
+  {
+    "name": "Ultra International",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Navi Mumbai",
+      "Hyderabad",
+      "Bangalore",
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.ultrainternatio.org",
+    "careers_page": "https://www.ultrainternatio.org/jobs"
+  },
+  {
+    "name": "Hyper Innovations",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Chennai",
+      "Bangalore",
+      "Pune",
+      "Navi Mumbai",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "website": "https://www.hyperinnovation.net",
+    "careers_page": "https://www.hyperinnovation.net/careers"
+  },
+  {
+    "name": "Nexus Designs",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Chennai",
+      "Hyderabad",
+      "Bangalore"
+    ],
+    "website": "https://www.nexusdesigns.co.in",
+    "careers_page": "https://www.nexusdesigns.co.in/jobs"
+  },
+  {
+    "name": "Unique Global",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Navi Mumbai",
+      "Pune",
+      "Bangalore",
+      "Mumbai",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "website": "https://www.uniqueglobal.in",
+    "careers_page": "https://www.uniqueglobal.in/careers"
+  },
+  {
+    "name": "NextGlobal Partners",
+    "category": "Manufacturing & Industrial",
+    "locations": [
+      "Mumbai",
+      "Pune",
+      "Chennai"
+    ],
+    "website": "https://www.nextglobalpartn.net",
+    "careers_page": "https://www.nextglobalpartn.net/careers"
+  },
+  {
+    "name": "Nexus Technologies",
+    "category": "FMCG & Consumer Goods",
+    "locations": [
+      "Hyderabad",
+      "Chennai",
+      "Navi Mumbai",
+      "Bangalore"
+    ],
+    "website": "https://www.nexustechnologi.net",
+    "careers_page": "https://www.nexustechnologi.net/careers"
+  },
+  {
+    "name": "First Technologies",
+    "category": "Automotive & Transportation",
+    "locations": [
+      "Pune",
+      "Hyderabad",
+      "Mumbai",
+      "Navi Mumbai",
+      "Chennai",
+      "Bangalore"
+    ],
+    "website": "https://www.firsttechnologi.in",
+    "careers_page": "https://www.firsttechnologi.in/careers"
+  },
+  {
+    "name": "FutureSpeed Innovations",
+    "category": "Telecommunications",
+    "locations": [
+      "Mumbai"
+    ],
+    "website": "https://www.futurespeedinno.com",
+    "careers_page": "https://www.futurespeedinno.com/jobs"
+  },
+  {
+    "name": "Red Industries",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Hyderabad",
+      "Bangalore",
+      "Mumbai",
+      "Pune"
+    ],
+    "website": "https://www.redindustries.in",
+    "careers_page": "https://www.redindustries.in/jobs"
+  },
+  {
+    "name": "Top Limited",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Bangalore",
+      "Hyderabad",
+      "Navi Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.top.tech",
+    "careers_page": "https://www.top.tech/jobs"
+  },
+  {
+    "name": "New Industries",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Mumbai"
+    ],
+    "website": "https://www.newindustries.net",
+    "careers_page": "https://www.newindustries.net/careers"
+  },
+  {
+    "name": "Red Services",
+    "category": "Healthcare & Pharmaceuticals",
+    "locations": [
+      "Hyderabad",
+      "Mumbai",
+      "Navi Mumbai",
+      "Chennai",
+      "Bangalore"
+    ],
+    "website": "https://www.redservices.co.in",
+    "careers_page": "https://www.redservices.co.in/jobs"
+  },
+  {
+    "name": "Creative Industries",
+    "category": "IT Services & Consulting",
+    "locations": [
+      "Pune",
+      "Bangalore",
+      "Navi Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.creativeindustr.net",
+    "careers_page": "https://www.creativeindustr.net/careers"
+  },
+  {
+    "name": "Royal Worldwide",
+    "category": "Real Estate & Construction",
+    "locations": [
+      "Hyderabad",
+      "Navi Mumbai",
+      "Bangalore",
+      "Pune",
+      "Mumbai"
+    ],
+    "website": "https://www.royalworldwide.org",
+    "careers_page": "https://www.royalworldwide.org/jobs"
+  },
+  {
+    "name": "Golden Works",
+    "category": "Banking & Financial Services",
+    "locations": [
+      "Hyderabad",
+      "Navi Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.goldenworks.com",
+    "careers_page": "https://www.goldenworks.com/jobs"
+  },
+  {
+    "name": "Pinnacle Works",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Pune",
+      "Hyderabad",
+      "Bangalore",
+      "Chennai",
+      "Mumbai"
+    ],
+    "website": "https://www.pinnacleworks.net",
+    "careers_page": "https://www.pinnacleworks.net/jobs"
+  },
+  {
+    "name": "Code Applications",
+    "category": "Retail & E-commerce",
+    "locations": [
+      "Navi Mumbai",
+      "Mumbai",
+      "Chennai"
+    ],
+    "website": "https://www.codeapplication.com",
+    "careers_page": "https://www.codeapplication.com/jobs"
+  },
+  {
+    "name": "DigitalOmega Engineering",
+    "category": "Education & Research",
+    "locations": [
+      "Mumbai"
+    ],
+    "website": "https://www.digitalomegaeng.net",
+    "careers_page": "https://www.digitalomegaeng.net/careers"
+  }
+]
